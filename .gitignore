@@ -27,6 +27,7 @@ coverage
 build/Release
 
 # Dependency directories
+angular2-app/node_modules
 node_modules
 jspm_packages
 
